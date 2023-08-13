@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, ROH there 👋
+写一点Terraria mod和Monogame
+#### 联系方式
+QQ 3193934857
+<br />bilibili @-ROH-
 <!--
 **ROH319/ROH319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
